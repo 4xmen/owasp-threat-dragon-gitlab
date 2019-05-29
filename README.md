@@ -31,7 +31,7 @@ Install git and node.js - which includes the node package manager npm. To get th
 
 `git init`
 
-`git clone https://github.com/MiM1r/owasp-threat-dragon.git`
+`git clone https://github.com/MiM1r/owasp-threat-dragon-gitlab.git`
 
 This installs code in two sub-folders. One for the main application (`td`) and one for the unit tests (`td.tests`). To install, do:
 
