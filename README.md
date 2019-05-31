@@ -13,7 +13,7 @@ Threat Dragon is a free, open-source, cross-platform threat modelling applicatio
 
 The application comes in two variants:
 
-1. [**A web application (this repo)**](https://github.com/MiM1r/owasp-threat-dragon-gitlab): For the web application, models files are stored in Gitlab (other storage will become available). We are currently maintaining [a working protoype](https://threatdragon.org) in synch with the master code branch.
+1. [**A web application (this repo)**](https://github.com/4xmen/owasp-threat-dragon-gitlab): For the web application, models files are stored in Gitlab (other storage will become available). We are currently maintaining [a working protoype](https://threatdragon.org) in synch with the master code branch.
 
 2. [**A desktop application**](https://github.com/mike-goodwin/owasp-threat-dragon-desktop): This is based on [Electron](https://electron.atom.io/). There are released build images available for both Windows and OSX (a Linux install package will follow at some point). Note that for the desktop variant the models are stored on the local filesystem rather than a remote repository.
 
@@ -31,7 +31,7 @@ Install git and node.js - which includes the node package manager npm. To get th
 
 `git init`
 
-`git clone https://github.com/MiM1r/owasp-threat-dragon-gitlab.git`
+`git clone https://github.com/4xmen/owasp-threat-dragon-gitlab.git`
 
 This installs code in two sub-folders. One for the main application (`td`) and one for the unit tests (`td.tests`). To install, do:
 
